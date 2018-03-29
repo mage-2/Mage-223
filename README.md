@@ -1,2 +1,2 @@
 # mage-223
-magento 2 contact form
+Magento 2 Contact form module
